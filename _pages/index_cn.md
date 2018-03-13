@@ -21,9 +21,9 @@ wangbo_pku_15 [AT] 163 [DOT] com
 # 论文
 * Yingfei Xiong, Bo Wang, Guirong Fu, Linfei Zang. **Learning to Synthesize.** *ICSE-GI-2018: International Genetic Improvement Workshop, Gothenburg, Sweden, June, 2018.*
 
-* Bo Wang, Yingfei Xiong, Yangqingwei Shi, Lu Zhang, Dan Hao. **Faster Mutation Analysis via Equivalence Modulo States.** *ISSTA'17: International Symposium on Software Testing and Analysis, Santa Barbara, CA, USA, July 2017.* **ACM SIGSOFT Distinguished Paper Award**. \[[论文](/files/ISSTA17.pdf)\]\ [[工具](https://github.com/wangbo15/accmut)\]
+* Bo Wang, Yingfei Xiong, Yangqingwei Shi, Lu Zhang, Dan Hao. **Faster Mutation Analysis via Equivalence Modulo States.** *ISSTA'17: International Symposium on Software Testing and Analysis, Santa Barbara, CA, USA, July 2017.* **ACM SIGSOFT Distinguished Paper Award**. \[[论文](/files/ISSTA17.pdf)\] \[[工具](https://github.com/wangbo15/accmut)\]
 
-* Bo Wang. **Dynamic analysis of shared execution in software product line testing.** *SPLC'16-Doctoral Symposium: International Systems and Software Product Line Conference, Beijing, China, September, 2016.* \[[论文](/files/SPLC16.pdf)\]\
+* Bo Wang. **Dynamic analysis of shared execution in software product line testing.** *SPLC'16-Doctoral Symposium: International Systems and Software Product Line Conference, Beijing, China, September, 2016.* \[[论文](/files/SPLC16.pdf)\]
 
 # 所获奖励
 * **2017-05** ACM SIGSOFT Distinguished Paper Award
