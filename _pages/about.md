@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D candidate
+**Ph.D candidate**
 
-[Software Engineering Institute](http://www.sei.pku.edu.cn/)
+**[Software Engineering Institute](http://www.sei.pku.edu.cn/)**
 
-[Peking University](http://english.pku.edu.cn/)
+**[Peking University](http://english.pku.edu.cn/)**
 
-wangbo_pku_15 [AT] 163 [DOT] com
+**wangbo_pku_15 [AT] 163 [DOT] com**
 
 My research interests are mainly in automated program repair, software testing and compiler techniques. I am also interested in ML techniques.
 
