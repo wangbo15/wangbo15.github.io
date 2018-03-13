@@ -10,7 +10,7 @@ author_profile: true
 ## 連絡先
 wangbo_pku_15 [AT] 163 [DOT] com
 
-＃ 履歴
+# 履歴
 * 09/2015~Now, [北京大学](http://english.pku.edu.cn/), 工学博士
 * 09/2012~07/2015, [中国科学技術大学](http://en.ustc.edu.cn/), 工学修士卒業
 * 09/2008~07/2012, [中南大学](http://en.csu.edu.cn/), 工学学士卒業
