@@ -1,0 +1,44 @@
+---
+permalink: /
+title: "王博的主页"
+excerpt: "王博的主页"
+author_profile: true
+redirect_from: 
+  - /index_cn/
+  - /index_cn.html
+---
+
+王博
+[北京大学软件工程研究所](http://www.sei.pku.edu.cn/)，博士生
+wangbo_pku_15 [AT] 163 [DOT] com
+
+
+＃ 经历
+* 09/2015~Now, [北京大学](http://pku.edu.cn/), 博士，导师：[熊英飞](http://sei.pku.edu.cn/~xiongyf04/index_cn.html)教授
+* 09/2012~07/2015, [中国科学技术大学](http://ustc.edu.cn/), 硕士研究生
+* 09/2008~07/2012, [中南大学](http://csu.edu.cn/), 学士
+
+# 研究方向
+主要进行软件测试和程序自动修复方面的研究。另外对程序优化、编译器等相关技术有兴趣。
+
+# 论文
+* Yingfei Xiong, Bo Wang, Guirong Fu, Linfei Zang. **Learning to Synthesize.** *ICSE-GI-2018: International Genetic Improvement Workshop, Gothenburg, Sweden, June, 2018.*
+
+* Bo Wang, Yingfei Xiong, Yangqingwei Shi, Lu Zhang, Dan Hao. **Faster Mutation Analysis via Equivalence Modulo States.** *ISSTA'17: International Symposium on Software Testing and Analysis, Santa Barbara, CA, USA, July 2017.* **ACM SIGSOFT Distinguished Paper Award**.
+
+* Bo Wang. **Dynamic analysis of shared execution in software product line testing.** *SPLC'16-Doctoral Symposium: International Systems and Software Product Line Conference, Beijing, China, September, 2016.*
+
+# 所获奖励
+* **2017-05** ACM SIGSOFT Distinguished Paper Award
+* **2015-04** 北京大学校运会，男子4*100米接力金牌，4*400米接力第5名
+
+# 授课经验
+曾担任北京大学《[软件分析](http://sei.pku.edu.cn/~xiongyf04/SA/2017/main.htm)》助教，主要负责介绍LLVM项目。
+
+# 报告
+* **Precise Condition Synthesis for Program Repair**. APSEC-17.
+
+# 语言能力
+* **英語**：CET-6
+* **日语**：[JPLT](http://www.jlpt.jp/e/about/levelsummary.html) N2
+

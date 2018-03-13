@@ -31,7 +31,7 @@ My research interests are mainly in automated program repair, software testing a
 * **2016**: SPLC volunteer, SPLC sub-reviewer, FASE sub-reviewer
 
 # Teaching Assistant Experience:
-I worked as TA for the course [Software Analysis](http://sei.pku.edu.cn/~xiongyf04/SA/2017/main.htm) in 2016 and 2017, introducing the LLVM project in a two-hours course.
+I worked as TA for the course [Software Analysis](http://sei.pku.edu.cn/~xiongyf04/SA/2017/main.htm) in Peking University, in 2016 and 2017, introducing the LLVM project in a two-hours course.
 
 # Talks
 * **Precise Condition Synthesis for Program Repair**. APSEC-17.
