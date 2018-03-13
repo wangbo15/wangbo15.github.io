@@ -1,11 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "王博のホームページ"
-excerpt: "王博のホームページ"
+permalink: /index_jp/
 author_profile: true
-redirect_from: 
-  - /index_jp/
-  - /index_jp.html
 ---
 
 私は王博（おうひろ）です。今[北京大学	ソフトウェアエンジニア研究室](http://www.sei.pku.edu.cn/)の三年目の博士で、[熊英飛](http://sei.pku.edu.cn/~xiongyf04/)教授に指導させております。
@@ -24,9 +21,9 @@ wangbo_pku_15 [AT] 163 [DOT] com
 # 論文
 * Yingfei Xiong, Bo Wang, Guirong Fu, Linfei Zang. **Learning to Synthesize.** *ICSE-GI-2018: International Genetic Improvement Workshop, Gothenburg, Sweden, June, 2018.*
 
-* Bo Wang, Yingfei Xiong, Yangqingwei Shi, Lu Zhang, Dan Hao. **Faster Mutation Analysis via Equivalence Modulo States.** *ISSTA'17: International Symposium on Software Testing and Analysis, Santa Barbara, CA, USA, July 2017.* **ACM SIGSOFT Distinguished Paper Award**.
+* Bo Wang, Yingfei Xiong, Yangqingwei Shi, Lu Zhang, Dan Hao. **Faster Mutation Analysis via Equivalence Modulo States.** *ISSTA'17: International Symposium on Software Testing and Analysis, Santa Barbara, CA, USA, July 2017.* **ACM SIGSOFT Distinguished Paper Award**. \[[論文](/files/ISSTA17.pdf)\]\ [[工具](https://github.com/wangbo15/accmut)\]
 
-* Bo Wang. **Dynamic analysis of shared execution in software product line testing.** *SPLC'16-Doctoral Symposium: International Systems and Software Product Line Conference, Beijing, China, September, 2016.*
+* Bo Wang. **Dynamic analysis of shared execution in software product line testing.** *SPLC'16-Doctoral Symposium: International Systems and Software Product Line Conference, Beijing, China, September, 2016.* \[[論文](/files/SPLC16.pdf)\]\
 
 # 受賞
 * **2017-05** ACM SIGSOFT Distinguished Paper Award 

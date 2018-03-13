@@ -16,9 +16,11 @@ main:
 #    url: /year-archive
     
   - title: "汉语"
-    url: \chinese_index
+    url: \index_cn
  
+  - title: "日本語"
+    url: \index_jp
 
-  - title: "CV"
-    url: \#cv
+#  - title: "CV"
+#    url: \cv\
 
