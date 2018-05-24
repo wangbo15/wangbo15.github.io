@@ -19,7 +19,7 @@ wangbo_pku_15 [AT] 163 [DOT] com
 主要进行软件测试和程序自动修复方面的研究。另外对程序优化、编译器等相关技术有兴趣。
 
 # 论文
-* Yingfei Xiong, Bo Wang, Guirong Fu, Linfei Zang. **Learning to Synthesize.** *ICSE-GI-2018: International Genetic Improvement Workshop, Gothenburg, Sweden, June, 2018.*
+* Yingfei Xiong, Bo Wang, Guirong Fu, Linfei Zang. **Learning to Synthesize.** *ICSE-GI-2018: International Genetic Improvement Workshop, Gothenburg, Sweden, June, 2018.* [[论文](/files/GI18.pdf)]
 
 * Bo Wang, Yingfei Xiong, Yangqingwei Shi, Lu Zhang, Dan Hao. **Faster Mutation Analysis via Equivalence Modulo States.** *ISSTA'17: International Symposium on Software Testing and Analysis, Santa Barbara, CA, USA, July 2017.* **ACM SIGSOFT Distinguished Paper Award**. [[论文](/files/ISSTA17.pdf)] [[工具](https://github.com/wangbo15/accmut)]
 
