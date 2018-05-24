@@ -1,20 +1,25 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Bo Wang (王博)"
+excerpt: "Bo Wang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am **Bo Wang（王博）**, a third-year Ph.D candidate in the [Software Engineering Institute](http://www.sei.pku.edu.cn/) at [Peking University](http://english.pku.edu.cn/), supervised by [Prof. Yingfei Xiong](http://sei.pku.edu.cn/~xiongyf04/).
+**Ph.D candidate**
 
+**[Software Engineering Institute](http://www.sei.pku.edu.cn/)**
+
+**[Peking University](http://english.pku.edu.cn/)**
+
+**wangbo_pku_15 [AT] 163 [DOT] com**
 
 My research interests are mainly in automated program repair, software testing and compiler techniques. I am also interested in ML techniques.
 
 # Education
-* 09/2015~Now, [Peking University](http://english.pku.edu.cn/), Ph.D. Candidate
+* 09/2015~Now, [Peking University](http://english.pku.edu.cn/), Ph.D. Candidate, supervised by [Yingfei Xiong](http://sei.pku.edu.cn/~xiongyf04/)
 * 09/2012~07/2015, [University of Science and Technology of China](http://en.ustc.edu.cn/), Master
 * 09/2008~07/2012, [Central South University](http://en.csu.edu.cn/), Bachelor Diploma
 

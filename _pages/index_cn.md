@@ -27,7 +27,7 @@ wangbo_pku_15 [AT] 163 [DOT] com
 
 # 所获奖励
 * **2017-05** ACM SIGSOFT Distinguished Paper Award
-* **2015-04** 北京大学校运会，男子4*100米接力金牌，4*400米接力第5名
+* **2015-04** 北京大学校运会，男子4\*100米接力金牌，4\*400米接力第5名
 
 # 授课经验
 曾担任北京大学《[软件分析](http://sei.pku.edu.cn/~xiongyf04/SA/2017/main.htm)》助教，主要负责介绍LLVM项目。
