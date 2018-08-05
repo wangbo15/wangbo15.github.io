@@ -19,7 +19,7 @@ redirect_from:
 My research interests are mainly in automated program repair, software testing and compiler techniques. I am also interested in AI techniques.
 
 # Education
-* 09/2015~Now, [Peking University](http://english.pku.edu.cn/), Ph.D. Candidate, supervised by [Yingfei Xiong](http://sei.pku.edu.cn/~xiongyf04/)
+* 09/2015~Now, [Peking University](http://english.pku.edu.cn/), Ph.D. Candidate, supervised by Prof. [Yingfei Xiong](http://sei.pku.edu.cn/~xiongyf04/)
 * 09/2012~07/2015, [University of Science and Technology of China](http://en.ustc.edu.cn/), Master
 * 09/2008~07/2012, [Central South University](http://en.csu.edu.cn/), Bachelor Diploma
 
