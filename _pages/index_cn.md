@@ -35,9 +35,9 @@ wangbo_pku_15 [AT] 163 [DOT] com
 
 # 报告
 ##2018
-* **Learning to Synthesize**. Presentation talk at APSEC-17. \[[胶片](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\]
+* **Learning to Synthesize**. GI'18 论文报告. \[[胶片](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\]
 ## 2017
-* **Precise Condition Synthesis for Program Repair**. Invited talk at APSEC-17. \[[胶片](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\]
+* **Precise Condition Synthesis for Program Repair**. APSEC-17 受邀报告. \[[胶片](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\]
 
 # 语言能力
 * **英語**：CET-6

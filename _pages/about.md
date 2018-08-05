@@ -16,7 +16,7 @@ redirect_from:
 
 **wangbo_pku_15 [AT] 163 [DOT] com**
 
-My research interests are mainly in automated program repair, software testing and compiler techniques. I am also interested in ML techniques.
+My research interests are mainly in automated program repair, software testing and compiler techniques. I am also interested in AI techniques.
 
 # Education
 * 09/2015~Now, [Peking University](http://english.pku.edu.cn/), Ph.D. Candidate, supervised by [Yingfei Xiong](http://sei.pku.edu.cn/~xiongyf04/)
@@ -40,10 +40,11 @@ My research interests are mainly in automated program repair, software testing a
 I worked as TA for the course [Software Analysis](http://sei.pku.edu.cn/~xiongyf04/SA/2017/main.htm) in Peking University, in 2016 and 2017, introducing the LLVM project in a two-hours course.
 
 # Talks
+
 ##2018
-* **Learning to Synthesize**. Presentation talk at APSEC-17. \[[Slides](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\]
+* **Learning to Synthesize**. Presentation talk at GI'18. \[[Slides](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\]
 ## 2017
-* **Precise Condition Synthesis for Program Repair**. Invited talk at APSEC-17. \[[Slides](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\]
+* **Precise Condition Synthesis for Program Repair**. Invited talk at APSEC'17. \[[Slides](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\]
 
 # Language Ability
 * **Mandarin**: Native Speaker

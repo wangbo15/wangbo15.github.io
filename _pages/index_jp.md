@@ -26,15 +26,14 @@ wangbo_pku_15 [AT] 163 [DOT] com
 * Bo Wang. **Dynamic analysis of shared execution in software product line testing.** *SPLC'16-Doctoral Symposium: International Systems and Software Product Line Conference, Beijing, China, September, 2016.* [[論文](/files/SPLC16.pdf)]
 
 # 受賞
-* **2017-05** ACM SIGSOFT Distinguished Paper Award 
+* **2017-09** 北京大学博士専門賞
+* **2017-05** ACM SIGSOFT Distinguished Paper Award
 * **2015-04** 北京大学運動会、4＊100m 金メダル，4＊400m 第5位
 
 
 # 授業経験
 私は北京大学で[ソフトウェアアナリシス](http://sei.pku.edu.cn/~xiongyf04/SA/2017/main.htm)の助教を担当しました。LLVMコンパイラをプロフィールしました。
 
-# プレゼン
-* **Precise Condition Synthesis for Program Repair**. APSEC-17.
 
 # 言語能力
 * **中国語**：母語
