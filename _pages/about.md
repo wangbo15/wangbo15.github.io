@@ -40,9 +40,9 @@ My research interests are mainly in automated program repair, software testing a
 I worked as TA for the course [Software Analysis](http://sei.pku.edu.cn/~xiongyf04/SA/2017/main.htm) in Peking University, in 2016 and 2017, introducing the LLVM project in a two-hours course.
 
 # Talks
-### 2018
+**2018**
 * **Learning to Synthesize**. Presentation talk at GI'18. \[[Slides](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\]
-### 2017
+**2017**
 * **Precise Condition Synthesis for Program Repair**. Invited talk at APSEC'17. \[[Slides](/files/slides/ACS@APSEC17.pdf)\]
 
 # Language Ability
