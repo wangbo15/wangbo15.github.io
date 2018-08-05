@@ -19,14 +19,15 @@ wangbo_pku_15 [AT] 163 [DOT] com
 主要进行软件测试和程序自动修复方面的研究。另外对程序优化、编译器等相关技术有兴趣。
 
 # 论文
-* Yingfei Xiong, Bo Wang, Guirong Fu, Linfei Zang. **Learning to Synthesize.** *ICSE-GI-2018: International Genetic Improvement Workshop, Gothenburg, Sweden, June, 2018.* [[论文](/files/GI18.pdf)]
+* 熊英飞, 王博, 伏贵荣, 臧琳飞. **Learning to Synthesize.** *ICSE-GI-2018: International Genetic Improvement Workshop, Gothenburg, Sweden, June, 2018.* [[论文](/files/GI18.pdf)]
 
-* Bo Wang, Yingfei Xiong, Yangqingwei Shi, Lu Zhang, Dan Hao. **Faster Mutation Analysis via Equivalence Modulo States.** *ISSTA'17: International Symposium on Software Testing and Analysis, Santa Barbara, CA, USA, July 2017.* **ACM SIGSOFT Distinguished Paper Award**. [[论文](/files/ISSTA17.pdf)] [[工具](https://github.com/wangbo15/accmut)]
+* 王博, 熊英飞, 史杨勍惟, 张路, 郝丹. **Faster Mutation Analysis via Equivalence Modulo States.** *ISSTA'17: International Symposium on Software Testing and Analysis, Santa Barbara, CA, USA, July 2017.* **ACM SIGSOFT Distinguished Paper Award**. [[论文](/files/ISSTA17.pdf)] [[工具](https://github.com/wangbo15/accmut)]
 
-* Bo Wang. **Dynamic analysis of shared execution in software product line testing.** *SPLC'16-Doctoral Symposium: International Systems and Software Product Line Conference, Beijing, China, September, 2016.* [[论文](/files/SPLC16.pdf)]
+* 王博. **Dynamic analysis of shared execution in software product line testing.** *SPLC'16-Doctoral Symposium: International Systems and Software Product Line Conference, Beijing, China, September, 2016.* [[论文](/files/SPLC16.pdf)]
 
 # 所获奖励
 * **2017-05** ACM SIGSOFT Distinguished Paper Award
+* **2017-09** 北京大学专项奖学金
 * **2015-04** 北京大学校运会，男子4\*100米接力金牌，4\*400米接力第5名
 
 # 授课经验
@@ -38,4 +39,3 @@ wangbo_pku_15 [AT] 163 [DOT] com
 # 语言能力
 * **英語**：CET-6
 * **日语**：[JPLT](http://www.jlpt.jp/e/about/levelsummary.html) N2
-
