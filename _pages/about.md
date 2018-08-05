@@ -24,7 +24,7 @@ My research interests are mainly in automated program repair, software testing a
 * 09/2008~07/2012, [Central South University](http://en.csu.edu.cn/), Bachelor Diploma
 
 # Publications
-* Yingfei Xiong, Bo Wang, Guirong Fu, Linfei Zang. **Learning to Synthesize.** *ICSE-GI-2018: International Genetic Improvement Workshop, Gothenburg, Sweden, June, 2018.*  \[[Paper](/files/GI18.pdf)\]
+* Yingfei Xiong, Bo Wang, Guirong Fu, Linfei Zang. **Learning to Synthesize.** *ICSE-GI-2018: International Genetic Improvement Workshop, Gothenburg, Sweden, June, 2018.*  \[[Paper](/files/GI18.pdf)\] \[[Slides](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\]
 
 * Bo Wang, Yingfei Xiong, Yangqingwei Shi, Lu Zhang, Dan Hao. **Faster Mutation Analysis via Equivalence Modulo States.** *ISSTA'17: International Symposium on Software Testing and Analysis, Santa Barbara, CA, USA, July 2017.* **ACM SIGSOFT Distinguished Paper Award**. \[[Paper](/files/ISSTA17.pdf)\] \[[Tool](https://github.com/wangbo15/accmut)\]
 
@@ -32,6 +32,7 @@ My research interests are mainly in automated program repair, software testing a
 
 
 # Academic Services
+* **2018**: ASE sub-reviewer, NASAC sub-reviewer
 * **2017**: SPLC sub-reviewer, FASE sub-reviewer
 * **2016**: SPLC volunteer, SPLC sub-reviewer, FASE sub-reviewer
 
@@ -39,7 +40,10 @@ My research interests are mainly in automated program repair, software testing a
 I worked as TA for the course [Software Analysis](http://sei.pku.edu.cn/~xiongyf04/SA/2017/main.htm) in Peking University, in 2016 and 2017, introducing the LLVM project in a two-hours course.
 
 # Talks
-* **Precise Condition Synthesis for Program Repair**. APSEC-17.
+##2018
+* **Learning to Synthesize**. Presentation talk at APSEC-17. \[[Slides](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\]
+## 2017
+* **Precise Condition Synthesis for Program Repair**. Invited talk at APSEC-17. \[[Slides](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\]
 
 # Language Ability
 * **Mandarin**: Native Speaker

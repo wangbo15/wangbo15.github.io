@@ -19,7 +19,7 @@ wangbo_pku_15 [AT] 163 [DOT] com
 主要进行软件测试和程序自动修复方面的研究。另外对程序优化、编译器等相关技术有兴趣。另外也在使用机器学习进行缺陷预测与程序综合的工作。
 
 # 论文
-* 熊英飞, 王博, 伏贵荣, 臧琳飞. **Learning to Synthesize.** *ICSE-GI-2018: International Genetic Improvement Workshop, Gothenburg, Sweden, June, 2018.* [[论文](/files/GI18.pdf)]
+* 熊英飞, 王博, 伏贵荣, 臧琳飞. **Learning to Synthesize.** *ICSE-GI-2018: International Genetic Improvement Workshop, Gothenburg, Sweden, June, 2018.* [[论文](/files/GI18.pdf)] \[[胶片](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\]
 
 * 王博, 熊英飞, 史杨勍惟, 张路, 郝丹. **Faster Mutation Analysis via Equivalence Modulo States.** *ISSTA'17: International Symposium on Software Testing and Analysis, Santa Barbara, CA, USA, July 2017.* **ACM SIGSOFT Distinguished Paper Award**. [[论文](/files/ISSTA17.pdf)] [[工具](https://github.com/wangbo15/accmut)]
 
@@ -34,7 +34,10 @@ wangbo_pku_15 [AT] 163 [DOT] com
 曾担任北京大学《[软件分析](http://sei.pku.edu.cn/~xiongyf04/SA/2017/main.htm)》助教，主要负责介绍LLVM项目。
 
 # 报告
-* **Precise Condition Synthesis for Program Repair**. APSEC-17.
+##2018
+* **Learning to Synthesize**. Presentation talk at APSEC-17. \[[胶片](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\]
+## 2017
+* **Precise Condition Synthesis for Program Repair**. Invited talk at APSEC-17. \[[胶片](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\]
 
 # 语言能力
 * **英語**：CET-6
