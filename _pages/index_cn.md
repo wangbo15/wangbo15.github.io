@@ -37,6 +37,7 @@ wangbo_pku_15 [AT] 163 [DOT] com
 **2018**
 * **Learning to Synthesize**. GI'18 论文报告. \[[胶片](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\]
 
+
 **2017**
 * **Precise Condition Synthesis for Program Repair**. APSEC-17 受邀报告. \[[胶片](/files/slides/ACS@APSEC17.pdf)\]
 
