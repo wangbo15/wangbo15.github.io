@@ -16,7 +16,7 @@ wangbo_pku_15 [AT] 163 [DOT] com
 * 09/2008~07/2012, [中南大学](http://csu.edu.cn/), 学士
 
 # 研究方向
-主要进行软件测试和程序自动修复方面的研究。另外对程序优化、编译器等相关技术有兴趣。
+主要进行软件测试和程序自动修复方面的研究。另外对程序优化、编译器等相关技术有兴趣。另外也在使用机器学习进行缺陷预测与程序综合的工作。
 
 # 论文
 * 熊英飞, 王博, 伏贵荣, 臧琳飞. **Learning to Synthesize.** *ICSE-GI-2018: International Genetic Improvement Workshop, Gothenburg, Sweden, June, 2018.* [[论文](/files/GI18.pdf)]
@@ -39,4 +39,3 @@ wangbo_pku_15 [AT] 163 [DOT] com
 # 语言能力
 * **英語**：CET-6
 * **日语**：[JPLT](http://www.jlpt.jp/e/about/levelsummary.html) N2
-
