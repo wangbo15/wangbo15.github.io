@@ -6,7 +6,11 @@ author_profile: true
 ---
 
 王博
+
+
 [北京大学软件工程研究所](http://www.sei.pku.edu.cn/)，博士生
+
+
 wangbo_pku_15 [AT] 163 [DOT] com
 
 
