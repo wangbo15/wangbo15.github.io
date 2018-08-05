@@ -7,7 +7,7 @@ author_profile: true
 
 **博士生**
 
-**[北京大学软件工程研究所](http://www.sei.pku.edu.cn/)**
+<strong><a href="http://www.sei.pku.edu.cn/" target="_blank" style="color:blue">北京大学软件工程研究所</a></strong>
 
 **wangbo_pku_15 [AT] 163 [DOT] com**
 
