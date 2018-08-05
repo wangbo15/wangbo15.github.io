@@ -34,9 +34,9 @@ wangbo_pku_15 [AT] 163 [DOT] com
 曾担任北京大学《[软件分析](http://sei.pku.edu.cn/~xiongyf04/SA/2017/main.htm)》助教，主要负责介绍LLVM项目。
 
 # 报告
-##2018
+### 2018
 * **Learning to Synthesize**. GI'18 论文报告. \[[胶片](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\]
-## 2017
+### 2017
 * **Precise Condition Synthesis for Program Repair**. APSEC-17 受邀报告. \[[胶片](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\]
 
 # 语言能力
