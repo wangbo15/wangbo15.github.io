@@ -24,7 +24,7 @@ My research interests are mainly in automated program repair, software testing a
 * 09/2008~07/2012, [Central South University](http://en.csu.edu.cn/), Bachelor Diploma
 
 # Publications
-\[[Google Scholar]\](https://scholar.google.com/citations?user=hfRB4YoAAAAJ&hl=en)
+\[[Google Scholar](https://scholar.google.com/citations?user=hfRB4YoAAAAJ&hl=en)\]
 * Yingfei Xiong, Bo Wang, Guirong Fu, Linfei Zang. **Learning to Synthesize.** *ICSE-GI-2018: International Genetic Improvement Workshop, Gothenburg, Sweden, June, 2018.*  \[[Paper](/files/GI18.pdf)\] \[[Slides](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\] \[[Results](https://github.com/wangbo15/L2S-PATCHES-GI)\]
 
 * Bo Wang, Yingfei Xiong, Yangqingwei Shi, Lu Zhang, Dan Hao. **Faster Mutation Analysis via Equivalence Modulo States.** *ISSTA'17: International Symposium on Software Testing and Analysis, Santa Barbara, CA, USA, July 2017.* **ACM SIGSOFT Distinguished Paper Award**. \[[Paper](/files/ISSTA17.pdf)\] \[[Tool](https://github.com/wangbo15/accmut)\]
