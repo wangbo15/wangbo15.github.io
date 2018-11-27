@@ -33,7 +33,7 @@ My research interests are mainly in automated program repair, software testing a
 
 
 # Academic Services
-* **2018**: ASE sub-reviewer, NASAC sub-reviewer
+* **2018**: ICSE sub-reviewer, ASE sub-reviewer, NASAC sub-reviewer
 * **2017**: SPLC sub-reviewer, FASE sub-reviewer
 * **2016**: ASE Demo Track sub-reviewer, SPLC volunteer, SPLC sub-reviewer, FASE sub-reviewer
 
@@ -42,11 +42,12 @@ I worked as TA for the course [Software Analysis](http://sei.pku.edu.cn/~xiongyf
 
 # Talks
 **2018**
-* **Learning to Synthesize**. Presentation talk at GI'18. \[[Slides](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\]
+* **Learning to Synthesize**. Presentation talk at [GI'18](http://geneticimprovementofsoftware.com/). Gothenburg, Sweden. June. 2018. \[[Slides](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\]
 
+* **Context-Based Automated Program Repair Techniques**. Presentation at [NASAC'18](http://nasac2018.szu.edu.cn/). Shenzhen, China. Nov. 2018.
 
 **2017**
-* **Precise Condition Synthesis for Program Repair**. Invited talk at APSEC'17. \[[Slides](/files/slides/ACS@APSEC17.pdf)\]
+* **Precise Condition Synthesis for Program Repair**. Invited talk at [APSEC'17](http://www.apsec2017.org/). Nanjing, China. Oct. 2017. \[[Slides](/files/slides/ACS@APSEC17.pdf)\]
 
 # Language Ability
 * **Mandarin**: Native Speaker
