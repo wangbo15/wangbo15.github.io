@@ -38,11 +38,11 @@ author_profile: true
 
 # 报告
 **2018**
-* **Learning to Synthesize**. GI'18 论文报告. \[[胶片](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\]
-
+* **Learning to Synthesize**. [GI'18](http://geneticimprovementofsoftware.com/) 论文报告，瑞典哥德堡，2018年6月。 \[[胶片](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\]
+* **基于上下文信息的软件缺陷自动化修复技术**。 [NASAC'18](http://nasac2018.szu.edu.cn/) 优秀博士生论坛（与香港科技大学博士生文明合作报告），深圳，2018年11月。
 
 **2017**
-* **Precise Condition Synthesis for Program Repair**. APSEC-17 受邀报告. \[[胶片](/files/slides/ACS@APSEC17.pdf)\]
+* **Precise Condition Synthesis for Program Repair**。 [APSEC-17](http://www.apsec2017.org/) 受邀报告，南京，2017年10月。 \[[胶片](/files/slides/ACS@APSEC17.pdf)\]
 
 # 语言能力
 * **英語**：CET-6
