@@ -18,7 +18,8 @@ redirect_from:
 
 My research interests are mainly in automated program repair, software testing and compiler techniques. I am also interested in AI techniques.
 
-# Education
+# Education & Experience
+* 01/2019~Now, [National University of Singapore], intern Ph.D. student in School of Computing, supervised by Prof. Abhik
 * 09/2015~Now, [Peking University](http://english.pku.edu.cn/), Ph.D. Candidate of Software Engineering, supervised by Prof. [Yingfei Xiong](http://sei.pku.edu.cn/~xiongyf04/)
 * 09/2012~07/2015, [University of Science and Technology of China](http://en.ustc.edu.cn/), Master of Software Engineering
 * 09/2008~07/2012, [Central South University](http://en.csu.edu.cn/), Bachelor Diploma of Software Engineering
@@ -33,7 +34,7 @@ My research interests are mainly in automated program repair, software testing a
 
 
 # Academic Services
-* **2018**: ICSE sub-reviewer, ASE sub-reviewer, NASAC sub-reviewer
+* **2018**: ICSE sub-reviewer, ASE sub-reviewer, NASAC sub-reviewer, FASE sub-reviewer
 * **2017**: SPLC sub-reviewer, FASE sub-reviewer
 * **2016**: ASE Demo Track sub-reviewer, SPLC volunteer, SPLC sub-reviewer, FASE sub-reviewer
 
