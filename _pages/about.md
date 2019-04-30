@@ -20,9 +20,9 @@ My research interests are mainly in automated program repair, software testing a
 
 # Education & Experience
 * 01/2019~Now, [National University of Singapore](http://nus.edu.sg/), intern Ph.D. student in School of Computing, supervised by Prof. [Abhik](https://www.comp.nus.edu.sg/~abhik/)
-* 09/2015~Now, [Peking University](http://english.pku.edu.cn/), Ph.D. Candidate of Software Engineering, supervised by Prof. [Yingfei Xiong](http://sei.pku.edu.cn/~xiongyf04/)
-* 09/2012~07/2015, [University of Science and Technology of China](http://en.ustc.edu.cn/), Master of Software Engineering
-* 09/2008~07/2012, [Central South University](http://en.csu.edu.cn/), Bachelor Diploma of Software Engineering
+* 09/2015~Now, [Peking University](http://english.pku.edu.cn/), Ph.D. Candidate, supervised by Prof. [Yingfei Xiong](http://sei.pku.edu.cn/~xiongyf04/)
+* 09/2012~07/2015, [University of Science and Technology of China](http://en.ustc.edu.cn/), Master
+* 09/2008~07/2012, [Central South University](http://en.csu.edu.cn/), Bachelor
 
 # Publications
 \[[Google Scholar](https://scholar.google.com/citations?user=hfRB4YoAAAAJ&hl=en)\]
