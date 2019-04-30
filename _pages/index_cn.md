@@ -14,7 +14,7 @@ author_profile: true
 
 ## 经历
 * 01/2019~Now, 新加坡国立大学，交流学生，指导老师：[Abhik](https://www.comp.nus.edu.sg/~abhik/)教授
-* 09/2015~Now, [北京大学](http://pku.edu.cn/)，软件工程工学博士，导师：[熊英飞](http://sei.pku.edu.cn/~xiongyf04/index_cn.html)教授
+* 09/2015~Now, [北京大学](http://pku.edu.cn/)，博士，导师：[熊英飞](http://sei.pku.edu.cn/~xiongyf04/index_cn.html)教授
 * 09/2012~07/2015, [中国科学技术大学](http://ustc.edu.cn/), 硕士
 * 09/2008~07/2012, [中南大学](http://csu.edu.cn/), 学士
 
