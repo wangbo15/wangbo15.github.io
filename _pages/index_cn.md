@@ -46,5 +46,5 @@ author_profile: true
 * **Precise Condition Synthesis for Program Repair**。 [APSEC-17](http://www.apsec2017.org/) 受邀报告，南京，2017年10月。 \[[胶片](/files/slides/ACS@APSEC17.pdf)\]
 
 # 语言能力
-* **英語**：CET-6
+* **英語**
 * **日语**：[JPLT](http://www.jlpt.jp/e/about/levelsummary.html) N2
