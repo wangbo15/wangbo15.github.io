@@ -37,7 +37,7 @@ wangbo_pku_15 [AT] 163 [DOT] com
 
 
 # 言語能力
-* **中国語**：母語
-* **英語**：中国全国大学英語テスト：レベル-6（CET-6）
-* **日本語**：[JPLT](http://www.jlpt.jp/e/about/levelsummary.html) N2
+* **中国語**
+* **英語**
+* **日本語**：JPLT N2
 
