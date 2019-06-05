@@ -47,4 +47,4 @@ author_profile: true
 
 # 语言能力
 * **英語**
-* **日语**：[JPLT](http://www.jlpt.jp/e/about/levelsummary.html) N2
+* **日语**：JPLT N2
