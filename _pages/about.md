@@ -52,6 +52,6 @@ I worked as TA for the course [Software Analysis](http://sei.pku.edu.cn/~xiongyf
 
 # Language Ability
 * **Mandarin**: Native Speaker
-* **English**: Limited Working Proficiency (Level: CET-6)
+* **English**: Limited Working Proficiency
 * **Japanese**: Technical Material Reading Proficiency (Level: [JPLT](http://www.jlpt.jp/e/about/levelsummary.html) N2)
 
