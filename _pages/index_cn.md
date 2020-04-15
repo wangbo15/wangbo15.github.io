@@ -13,7 +13,7 @@ author_profile: true
 
 
 ## 经历
-* 01/2019~Now, 新加坡国立大学，交流学生，指导老师：[Abhik](https://www.comp.nus.edu.sg/~abhik/)教授
+* 01/2019~09/2019, 新加坡国立大学，交流学生，指导老师：[Abhik](https://www.comp.nus.edu.sg/~abhik/)教授
 * 09/2015~Now, [北京大学](http://pku.edu.cn/)，博士，导师：[熊英飞](http://sei.pku.edu.cn/~xiongyf04/index_cn.html)教授
 * 09/2012~07/2015, [中国科学技术大学](http://ustc.edu.cn/), 硕士
 * 09/2008~07/2012, [中南大学](http://csu.edu.cn/), 学士
@@ -23,6 +23,8 @@ author_profile: true
 
 # 论文
 \[[谷歌学术](https://scholar.google.com/citations?user=hfRB4YoAAAAJ&hl=zh-CN)\]
+* 王博, 卢思睿, 姜佳君, 熊英飞. **基于动态分析的软件不变量综合技术综述.** *软件学报 2020*
+
 * 熊英飞, 王博, 伏贵荣, 臧琳飞. **Learning to Synthesize.** *ICSE-GI-2018: International Genetic Improvement Workshop, Gothenburg, Sweden, June, 2018.* [[论文](/files/GI18.pdf)] \[[胶片](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\] \[[修复结果](https://github.com/wangbo15/L2S-PATCHES-GI)\]
 
 * 王博, 熊英飞, 史杨勍惟, 张路, 郝丹. **Faster Mutation Analysis via Equivalence Modulo States.** *ISSTA'17: International Symposium on Software Testing and Analysis, Santa Barbara, CA, USA, July 2017.* **ACM SIGSOFT Distinguished Paper Award**. [[论文](/files/ISSTA17.pdf)] [[工具](https://github.com/wangbo15/accmut)]
