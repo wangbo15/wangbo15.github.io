@@ -23,7 +23,9 @@ author_profile: true
 
 # 论文
 \[[谷歌学术](https://scholar.google.com/citations?user=hfRB4YoAAAAJ&hl=zh-CN)\]
-* 王博, 卢思睿, 姜佳君, 熊英飞. **基于动态分析的软件不变量综合技术综述.** *软件学报 2020*
+* 高祥, 王博, Gregory J. Duck, 吉如一, 熊英飞, Abhik Roychoudhury。 **Beyond Tests: Program Vulnerability Repair via Crash Constraint Extraction.** *TOSEM: ACM Transactions on Software Engineering and Methodology.*
+
+* 王博, 卢思睿, 姜佳君, 熊英飞. **基于动态分析的软件不变量综合技术综述.** *软件学报 2020.* [[论文](http://www.jos.org.cn/1000-9825/6014.htm)]
 
 * 熊英飞, 王博, 伏贵荣, 臧琳飞. **Learning to Synthesize.** *ICSE-GI-2018: International Genetic Improvement Workshop, Gothenburg, Sweden, June, 2018.* [[论文](/files/GI18.pdf)] \[[胶片](/files/slides/2018-Learning-to-Synthesize@GI.pdf)\] \[[修复结果](https://github.com/wangbo15/L2S-PATCHES-GI)\]
 
