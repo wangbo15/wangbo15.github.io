@@ -18,8 +18,8 @@ main:
   - title: "汉语"
     url: \index_cn
  
-  - title: "日本語"
-    url: \index_jp
+  #- title: "日本語"
+  #  url: \index_jp
 
 #  - title: "CV"
 #    url: \cv\
