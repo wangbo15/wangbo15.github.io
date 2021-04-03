@@ -33,7 +33,7 @@ My research interests are mainly in automated program repair, software testing a
 
 * Bo Wang, Yingfei Xiong, Yangqingwei Shi, Lu Zhang, Dan Hao. **Faster Mutation Analysis via Equivalence Modulo States.** *ISSTA'17: International Symposium on Software Testing and Analysis, Santa Barbara, CA, USA, July 2017.* **ACM SIGSOFT Distinguished Paper Award**. \[[Paper](/files/ISSTA17.pdf)\] \[[Tool](https://github.com/wangbo15/accmut)\]
 
-* Bo Wang. **Dynamic analysis of shared execution in software product line testing.** *SPLC'16-Doctoral Symposium: International Systems and Software Product Line Conference, Beijing, China, September, 2016.*  \[[Paper](/files/SPLC16.pdf)\]
+* Bo Wang. **Dynamic Analysis of Shared Execution in Software Product Line Testing.** *SPLC'16-Doctoral Symposium: International Systems and Software Product Line Conference, Beijing, China, September, 2016.*  \[[Paper](/files/SPLC16.pdf)\]
 
 
 # Academic Services
@@ -54,7 +54,7 @@ I worked as TA for the course [Software Analysis](http://sei.pku.edu.cn/~xiongyf
 * **Precise Condition Synthesis for Program Repair**. Invited talk at [APSEC'17](http://www.apsec2017.org/). Nanjing, China. Oct. 2017. \[[Slides](/files/slides/ACS@APSEC17.pdf)\]
 
 # Language Ability
-* **Mandarin**: Native Speaker
-* **English**: Limited Working Proficiency
-* **Japanese**: Technical Material Reading Proficiency (Level: [JPLT](http://www.jlpt.jp/e/about/levelsummary.html) N2)
+* **Mandarin**
+* **English**
+* **Japanese**
 
