@@ -15,7 +15,7 @@ author_profile: true
 
 
 ## 教育及工作经历
-* 03/2021~Now, [北京交通大学](http://bjtu.edu.cn)，讲师
+* 03/2021~Now, [北京交通大学](http://bjtu.edu.cn)，计算机学院，讲师
 * 01/2019~09/2019, [新加坡国立大学](http://nus.edu.sg/)，交流学生，指导老师：[Abhik](https://www.comp.nus.edu.sg/~abhik/)教授
 * 09/2015~01/2021, [北京大学](http://pku.edu.cn/)，博士，导师：[熊英飞](http://sei.pku.edu.cn/~xiongyf04/index_cn.html)教授
 * 09/2012~07/2015, [中国科学技术大学](http://ustc.edu.cn/), 硕士
@@ -26,7 +26,7 @@ author_profile: true
 
 # 论文
 \[[谷歌学术](https://scholar.google.com/citations?user=hfRB4YoAAAAJ&hl=zh-CN)\]
-* 高祥, 王博, Gregory J. Duck, 吉如一, 熊英飞, Abhik Roychoudhury。 **Beyond Tests: Program Vulnerability Repair via Crash Constraint Extraction.** *TOSEM: ACM Transactions on Software Engineering and Methodology.*\[[论文](/files/TOSEM21.pdf)\]
+* 高祥, 王博, Gregory J. Duck, 吉如一, 熊英飞, Abhik Roychoudhury. **Beyond Tests: Program Vulnerability Repair via Crash Constraint Extraction.** *TOSEM: ACM Transactions on Software Engineering and Methodology.*\[[论文](/files/TOSEM21.pdf)\]
 
 * 王博, 卢思睿, 姜佳君, 熊英飞. **基于动态分析的软件不变量综合技术综述.** *软件学报 2020.* [[论文](http://www.jos.org.cn/1000-9825/6014.htm)]
 
@@ -34,7 +34,7 @@ author_profile: true
 
 * 王博, 熊英飞, 史杨勍惟, 张路, 郝丹. **Faster Mutation Analysis via Equivalence Modulo States.** *ISSTA'17: International Symposium on Software Testing and Analysis, Santa Barbara, CA, USA, July 2017.* **ACM SIGSOFT Distinguished Paper Award**. [[论文](/files/ISSTA17.pdf)] [[工具](https://github.com/wangbo15/accmut)]
 
-* 王博. **Dynamic analysis of shared execution in software product line testing.** *SPLC'16-Doctoral Symposium: International Systems and Software Product Line Conference, Beijing, China, September, 2016.* [[论文](/files/SPLC16.pdf)]
+* 王博. **Dynamic Analysis of Shared Execution in Software Product Line Testing.** *SPLC'16-Doctoral Symposium: International Systems and Software Product Line Conference, Beijing, China, September, 2016.* [[论文](/files/SPLC16.pdf)]
 
 # 所获奖励
 * **2017-05** ACM SIGSOFT Distinguished Paper Award
