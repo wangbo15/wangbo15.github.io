@@ -27,6 +27,7 @@ My research interests are mainly in automated program repair, software testing a
 
 # Publications
 \[[Google Scholar](https://scholar.google.com/citations?user=hfRB4YoAAAAJ&hl=en)\]
+* Yingfei Xiong, Bo Wang. **L2S: a Framework for Synthesizing the Most Probable Program under a Specification.** *TOSEM'21: ACM Transactions on Software Engineering and Methodology*.
 * Bo Wang, Sirui Lu, Yingfei Xiong, Feng Liu. **Faster Mutation Analysis with Fewer Processes and Smaller Overheads.** *ASE'21: 36th IEEE/ACM International Conference on Automated Software Engineering, November 2021*.
 * Xiang Gao, Bo Wang, Gregory J. Duck, Ruyi Ji, Yingfei Xiong, Abhik Roychoudhury. **Beyond Tests: Program Vulnerability Repair via Crash Constraint Extraction.** *ACM Transactions on Software Engineering and Methodology (TOSEM).* \[[Paper](/files/TOSEM21.pdf)\].
 * Bo Wang, Sirui Lu, Jiajun Jiang, Yingfei Xiong. **Survey of Dynamic Analysis Based Program Invariant Synthesis Techniques.** *Journal of Software (In Chinese).* \[[Paper](http://www.jos.org.cn/1000-9825/6014.htm)\] 
