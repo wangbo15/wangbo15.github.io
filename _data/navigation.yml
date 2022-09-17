@@ -1,26 +1,22 @@
 # main links links
 main:
   - title: "Publications"
-    url: \#publications
+    url: /publications/
 
-  - title: "Academic Services"
-    url: \#academic-services
+  - title: "Talks"
+    url: /talks/    
 
   - title: "Teaching"
-    url: \#teaching-assistant-experience   
+    url: /teaching/    
     
-  - title: "Talks"
-    url: \#talks
-
-#  - title: "Blog Posts"
-#    url: /year-archive
-
-  - title: "汉语"
-    url: \index_cn
-
-#- title: "日本語"
-#  url: \index_jp
-
-#  - title: "CV"
-#    url: \cv\
-
+  - title: "Portfolio"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/
