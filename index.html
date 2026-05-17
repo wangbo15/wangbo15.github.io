@@ -84,6 +84,7 @@
           <li><a href="index.html">Home</a></li>
           <li><a href="publication.html">Publications</a></li>
           <li><a href="service.html">Services</a></li>
+          <li><a href="teaching.html">Teaching</a></li>
         </ul>
 
       </div>
@@ -116,11 +117,18 @@
             </p>
             <p>
 
-             <a href="https://scholar.google.com/citations?user=hfRB4YoAAAAJ&hl=en"
-                class="btn btn-primary btn-sm">Google Scholar</a> <br>
+              <a href="https://scholar.google.com/citations?user=hfRB4YoAAAAJ&hl=en"
+                class="btn btn-primary btn-sm">Google Scholar</a>
+              <br>
                 
-             <a href="https://github.com/wangbo15"
+              <a href="https://github.com/wangbo15"
                 class="btn btn-primary btn-sm">Github</a>
+              <br>
+
+              <a href="https://dblp.org/pid/72/6811-50.html"
+                class="btn btn-primary btn-sm">DBLP</a>
+              <br>
+            
             </p>
             <p>
           </div>
@@ -132,7 +140,7 @@
             <h3></h3>
 
 
-            <p>  I am currently a tenured Associate Professor in the 
+            <p> I am currently a tenured Associate Professor in the 
               <a target="_blank" href="http://en.scit.bjtu.edu.cn/">School of Computer Science and Technology</a> 
               at <a target="_blank" href="http://en.bjtu.edu.cn/">Beijing Jiaotong University (BJTU)</a>. 
               Before joining BJTU, I received my Ph.D. degree in Computer Science from 
@@ -152,39 +160,81 @@
               </p>
 
               <p>
-              My research interests mainly focus on Software Engineering and Programming Languages, 
-              including software analysis, testing, and debugging.
+              My research lies at the intersection of Software Engineering and Programming Languages, with a focus on compiler testing, software analysis, fuzzing, mutation analysis, and AI for software engineering. My goal is to improve the reliability, safety, and trustworthiness of critical software infrastructure.
               </p>
 
             <p>My recent research projects are mainly focused on: <br>
               (1) <b>Compiler Testing and Tuning</b> (OOPSLA'25, TSE'25); <br>
               (2) <b>Mutation Analysis</b> (FSE'26, TOSEM'26, ASE'21, ISSTA'17); <br>
-              (3) <b>Automated Program Repair</b> (TOSEM'22, TOSEM'20); <br>
-
+              (3) <b>Automated Program Repair</b> (ICSEM'25, TSE'24, TOSEM'22, TOSEM'20); <br>
+              (4) <b>Test Generation</b> (ISSTA'26, ASE'24). <br>
 
           </div>
 
+          <div class="bs-component">
           <h3>News</h3>
           <ul>
             <li>
-              Our papers on <i>LLMware license compatibility analysis</i> and <i>LLM-based test generation</i> have been accepted by 
+              I am serving on the Program Committee of <b>ICSE'27</b>, <b>ASE'26</b> and <b>ISSTA'26</b>.
+            </li>
+            
+            <li>
+               <b>[2026.04]</b> Our papers on <i>LLMware license compatibility analysis</i> and <i>LLM-based test generation</i> have been accepted by 
               <b>ISSTA'26</b>.
             </li>
             <li>
-              Our paper <i>Boosting LLMs for Mutation Generation</i> has been accepted by <b>FSE'26</b>.
+              <b>[2026.03]</b> Our paper <i>Boosting LLMs for Mutation Generation</i> has been accepted by <b>FSE'26</b>.
             </li>
             <li>
-              Our paper <i>A Comprehensive Study on Large Language Models for Mutation Testing</i> has been accepted by 
+              <b>[2026.02]</b> Our paper <i>A Comprehensive Study on Large Language Models for Mutation Testing</i> has been accepted by 
               <b>TOSEM'26</b>.
             </li>  
             <li>
-              Our paper on <i>type-driven mutation fuzzing for C++ compilers</i> has been accepted by 
+              <b>[2025.08]</b> Our paper on <i>type-driven mutation fuzzing for C++ compilers</i> has been accepted by 
               <b>OOPSLA'25</b>.
             </li>
-            <li>
-              I am serving on the Program Committee of <b>ICSE'27</b>, <b>ASE'26</b> and <b>ISSTA'26</b>.
-            </li>
+
           </ul>
+          </div>
+
+          <div class="bs-component">
+          <h3>Selected Honors and Awards</h3>
+
+            <ul>
+              <li>
+                ACM SIGSOFT Distinguished Paper Award, ISSTA'17
+                (<i>Faster Mutation Analysis via Equivalence Modulo States</i>)
+              </li>
+
+              <li>
+                IEEE TCSE Distinguished Paper Award, ICSME'25
+                (<i>Boosting Redundancy-based Automated Program Repair by Fine-grained Pattern Mining</i>)
+              </li>
+            </ul>
+          </div>
+
+          <div class="bs-component">
+          <h3>Open-Source Contribution</h3>
+            <p>
+              Our research group develops automated techniques for compiler testing, fuzzing, and software reliability analysis. Through our research, we aim
+              to improve the reliability and safety of critical software infrastructure.
+              Several discovered bugs affected real-world software systems and were discussed by compiler and open-source developers.
+            </p>
+
+            <ul>
+              <li>
+                Reported more than <b>200 bugs</b> to C++ compilers <b>GCC</b> and <b>Clang</b>, among which more than <b>80 bugs</b> were confirmed as previously unknown bugs by compiler developers.
+              </li>
+
+              <li>
+                Reported more than <b>60 bugs</b> to Rust compilers <b>rustc</b> and <b>gccrs</b>, among which more than <b>40 bugs</b> were confirmed as previously unknown bugs by compiler developers.
+              </li>
+
+              <li>
+                Reported <b>60 license-conflict issues</b> in PTMware software supply chains, among which <b>11 issues</b> were confirmed by open-source developers.
+              </li>
+            </ul>
+          </div>          
 
           <div class="bs-component">
 
@@ -268,6 +318,15 @@
               </li>
               
               <li>
+                <p> <b><font color="#0b5394">[TSE'24]</font></b> <strong> Accelerating Patch Validation for Program Repair with Interception-Based Execution Scheduling </strong><br>
+                  Yuan-An Xiao, Chenyang Yang, <strong>Bo Wang</strong>, Yingfei Xiong.<br>
+                  <em> IEEE Transactions on Software Engineering (TSE'24) </em>
+                  <a target="_blank" href="https://doi.org/10.1109/TSE.2024.3359969" class="btn btn-primary btn-xs">PAPER</a>
+                  <br>
+                </p>
+              </li>
+
+              <li>
                 <p> <b><font color="#0b5394">[TOSEM'22]</font></b> <strong>L2S: A Framework for Synthesizing the Most Probable Program under a Specification </strong><br>
                   Yingfei Xiong, <strong>Bo Wang</strong>.<br>
                   <em>ACM Transactions on Software Engineering and Methodology (<strong>TOSEM'22</strong>)</em>
@@ -285,6 +344,30 @@
                 </p>
               </li>
               
+
+              <br>
+              <h4><em><strong>4) Test Generation</strong></em></h4>
+              <hr>
+              
+              <li>
+                <p> <b><font color="#0b5394">[ISSTA'26]</font></b> <strong> From Greedy Steps to Global Optimization: Learning Sequential Test Suite Generation </strong><br>
+                Guoqing Wang, Chengran Yang, Xiaoxuan Zhou, Zeyu Sun, <strong>Bo Wang</strong>, David Lo, Dan Hao.<br>
+                  <em>ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'26)</em>
+                  <a target="_blank" href="https://arxiv.org/abs/2604.01799" class="btn btn-primary btn-xs">PAPER</a>
+                  <br>
+                </p>
+              </li>
+              
+              <li>
+                <p> <b><font color="#0b5394">[ASE'24]</font></b> <strong> On the Evaluation of Large Language Models in Unit Test Generation </strong><br>
+                  Lin Yang, Chen Yang, Shutao Gao, Weijing Wang, <strong>Bo Wang</strong>, Qihao Zhu, Xiao Chu, Jianyi Zhou, Guangtai Liang, Qianxiang Wang, Junjie Chen.<br>
+                  <em> 39th IEEE/ACM International Conference on Automated Software Engineering (ASE'24) </em>
+                  <a target="_blank" href="https://dl.acm.org/doi/pdf/10.1145/3691620.3695529" class="btn btn-primary btn-xs">PAPER</a>
+                  <br>
+                </p>
+              </li>
+
+
             </ul>
           </div>
           
@@ -312,8 +395,9 @@
           <div class="bs-component">
             <h3>Teaching</h3>
             <ul>
-              <li> <strong>Introduction to Computer Systems</strong>.
-              <li> <strong>Compiler Principles</strong>.
+              <li> <strong>Introduction to Computer Systems</strong> (Course Leader) </li>
+              <li> <strong>Compiler Principles</strong> (Instructor) </li>
+              <li> <strong>Parallel and Distributed Computing</strong> (Instructor) </li>
           </div>    
                     
         </div>
